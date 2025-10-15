@@ -1,0 +1,4 @@
+torch
+matplotlib
+pyside6
+numpy
